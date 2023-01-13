@@ -1,0 +1,1 @@
+alert("Hello, this is more information about geopraphy of China!");

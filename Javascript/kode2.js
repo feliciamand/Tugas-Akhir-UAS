@@ -1,0 +1,1 @@
+alert("Hello, this is more information about destinations in China!");

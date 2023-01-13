@@ -1,0 +1,1 @@
+alert("Hello, this is more information about cultures in China!");
